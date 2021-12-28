@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+> A clean, beautiful, responsive portfolio template for Web Developers!
 
-> https://varadbhogayata.github.io
+> https://github.com/elyahyaoui-oubay/elyahyaoui-oubay.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
