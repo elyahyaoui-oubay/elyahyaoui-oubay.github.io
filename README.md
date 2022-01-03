@@ -1,14 +1,14 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Web Developers!
 
-> https://github.com/elyahyaoui-oubay/elyahyaoui-oubay.github.io
+> https://elyahyaoui-oubay.github.io/.io
 
 
 
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://elyahyaoui-oubay.github.io/" target="_blank">
+    <a href="https://github.com/elyahyaoui-oubay/elyahyaoui-oubay.github.io" target="_blank">
     <!-- <img src="examples/preview.gif"> -->
   </a>
   </kbd>
@@ -39,7 +39,7 @@
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
+To view a live example, **[click here](https://elyahyaoui-oubay.github.io/)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
