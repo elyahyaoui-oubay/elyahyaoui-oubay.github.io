@@ -8,7 +8,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://github.com/elyahyaoui-oubay/elyahyaoui-oubay.github.io" target="_blank">
+    <a href="https://elyahyaoui-oubay.github.io/" target="_blank">
     <!-- <img src="examples/preview.gif"> -->
   </a>
   </kbd>
